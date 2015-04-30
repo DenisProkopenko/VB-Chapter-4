@@ -1,0 +1,11 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\bin\Debug\DigitalDownloads.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\bin\Debug\DigitalDownloads.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\bin\Debug\DigitalDownloads.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\DigitalDownloads.frmDigitalDownloads.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\DigitalDownloads.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\DigitalDownloads.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\DigitalDownloads.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Digital Downloads\DigitalDownloads\obj\x86\Debug\DigitalDownloads.pdb

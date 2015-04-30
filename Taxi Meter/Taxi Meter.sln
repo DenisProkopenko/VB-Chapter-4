@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Taxi Meter", "Taxi Meter\Taxi Meter.vbproj", "{FFC5504A-786D-4A5C-BF2F-9B704D86C37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC5504A-786D-4A5C-BF2F-9B704D86C37D}.Debug|x86.ActiveCfg = Debug|x86
+		{FFC5504A-786D-4A5C-BF2F-9B704D86C37D}.Debug|x86.Build.0 = Debug|x86
+		{FFC5504A-786D-4A5C-BF2F-9B704D86C37D}.Release|x86.ActiveCfg = Release|x86
+		{FFC5504A-786D-4A5C-BF2F-9B704D86C37D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

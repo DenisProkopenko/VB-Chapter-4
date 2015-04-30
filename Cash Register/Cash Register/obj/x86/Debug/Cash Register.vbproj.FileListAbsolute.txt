@@ -1,0 +1,11 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\bin\Debug\Cash Register.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\bin\Debug\Cash Register.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\bin\Debug\Cash Register.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\WindowsApplication1.frmCashRegister.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\Cash Register.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\Cash Register.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 4\Cash Register\Cash Register\obj\x86\Debug\Cash Register.pdb
